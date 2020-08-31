@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 height = 1.78
 weight = 60
 bmi = weight / (height*height) 
